@@ -1,4 +1,4 @@
-👋 Hi! Im Brutalalex and im student Developer of websites. (HTML)
+### 👋Hello, im Alexander Sebest
 
 🌐 My Web : alexandersebest.sk (Soon)
 
