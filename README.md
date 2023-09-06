@@ -3,7 +3,7 @@ Im Avgeek and little Developer from Slovakia
 
 
 
-🌐 My Web : alexandersebest.sk (Soon)
+🌐 My Discord: slovakaviator737
 
 ### ✔ What I can?
 HTML, CSS, JS and PHP.
